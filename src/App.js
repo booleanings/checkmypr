@@ -103,7 +103,7 @@ export default class App extends Component {
         <FormControl className="userInput " onBlur={this.onChangeUser.bind(this)}  type="username" placeholder="username" />
    </FormGroup>
    {' '}
-  <Button bsStyle="primary" active className="userInput" onClick={this.onSubmitUser.bind(this)} type="submit">
+  <Button bsStyle="primary" active className="userInput" onClick={this.onSubmitUser.bind(this)}>
      Submit
    </Button>
         </Form></ListGroupItem>
