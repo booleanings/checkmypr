@@ -5,8 +5,7 @@
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "dr-frankenstyle": "^0.2.8",
-    "jquery": "^3.2.1",
-    "react-scripts": "^1.0.11"
+    "jquery": "^3.2.1"
   },
   "dependencies": {
     "@npmcorp/pui-css-ribbons": "^6.4.0",
@@ -24,6 +23,8 @@
     "react-dom": "^15.6.2",
     "react-github-login": "^1.0.3",
     "react-materialize": "^1.1.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^1.0.17",
     "react-taggy": "^0.1.12",
     "react-time-ago": "^0.3.8",
     "react-timeago": "^3.4.3",
