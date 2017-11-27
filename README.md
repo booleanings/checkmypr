@@ -6,7 +6,7 @@ A Node.js app using Github's GraphQL API to check up on any user's pull requests
 
 ### Getting Started
 
-##### Prerequisites
+#### Prerequisites
 
 To build the project, you will need `Node.js` installed. Once you have installed node, just clone and install dependencies and run using:
 
