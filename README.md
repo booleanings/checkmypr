@@ -2,11 +2,6 @@
 
 A Node.js app using Github's GraphQL API to check up on any user's pull requests. 
 
-![https://raw.githubusercontent.com/aidaekay/checkmypr/master/founduser.PNG?token=AUE5IfncjvQaNBmnE2MjPjrGoQ1mjNu5ks5aJZP3wA%3D%3D]
-
-![Screenshot1](https://raw.githubusercontent.com/aidaekay/checkmypr/master/founduser.PNG?token=AUE5IfncjvQaNBmnE2MjPjrGoQ1mjNu5ks5aJZP3wA%3D%3D)
-![Screenshot2](https://raw.githubusercontent.com/aidaekay/checkmypr/master/homepage.png?token=AUE5IcfyP-FumJeYFw3aK82ZCZbmb2i0ks5aJZRGwA%3D%3D)
-
 ### Getting Started
 
 #### Prerequisites
@@ -47,7 +42,9 @@ The `repository` component mainly just holds a list of pull request IDs, found w
 
 The `PullRequest` component mainly takes in a series of pull request object and renders them into a pretty little bootstrap container that displays the time ago, number of comments, etc.
 
-
+### Screenshots
+![Screenshot1](https://raw.githubusercontent.com/aidaekay/checkmypr/master/founduser.PNG?token=AUE5IfncjvQaNBmnE2MjPjrGoQ1mjNu5ks5aJZP3wA%3D%3D)
+![Screenshot2](https://raw.githubusercontent.com/aidaekay/checkmypr/master/homepage.png?token=AUE5IcfyP-FumJeYFw3aK82ZCZbmb2i0ks5aJZRGwA%3D%3D)
 
 ### Contributing
 
