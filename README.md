@@ -2,7 +2,10 @@
 
 A Node.js app using Github's GraphQL API to check up on any user's pull requests. 
 
+![https://raw.githubusercontent.com/aidaekay/checkmypr/master/founduser.PNG?token=AUE5IfncjvQaNBmnE2MjPjrGoQ1mjNu5ks5aJZP3wA%3D%3D]
 
+![Screenshot1](https://raw.githubusercontent.com/aidaekay/checkmypr/master/founduser.PNG?token=AUE5IfncjvQaNBmnE2MjPjrGoQ1mjNu5ks5aJZP3wA%3D%3D)
+![Screenshot2](https://raw.githubusercontent.com/aidaekay/checkmypr/master/homepage.png?token=AUE5IcfyP-FumJeYFw3aK82ZCZbmb2i0ks5aJZRGwA%3D%3D)
 
 ### Getting Started
 
