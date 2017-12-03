@@ -1,2 +1,2 @@
 export const username = 'allAroundMeAreFamiliarFaces'
-export const password = 'itsapassword'
+export const password = 'password1'
